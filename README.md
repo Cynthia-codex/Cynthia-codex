@@ -23,6 +23,6 @@ I turn raw data into high-quality, production-ready training sets that accelerat
 - Request a short paid trial task — I can deliver a sample set with QA reports within agreed scope.
 
 ## Resume & Contact
-- Résumé: (will add later)  
+- Résumé: (will add link later)  
 - Email: cynthiacodex@example.com  
-- LinkedIn: linkedin.com/in/yourprofile
+- X: https://x.com/Cynthiacodex?t=dF8idzLOw5HQ_vxcEUYW_w&s=09
