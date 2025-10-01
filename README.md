@@ -24,5 +24,5 @@ I turn raw data into high-quality, production-ready training sets that accelerat
 
 ## Resume & Contact
 - Résumé: (will add link later)  
-- Email: cynthiacodex@example.com  
+- Email: cynthiarellajoel@gmail.com 
 - X: https://x.com/Cynthiacodex?t=dF8idzLOw5HQ_vxcEUYW_w&s=09
