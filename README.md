@@ -16,8 +16,8 @@ I turn raw data into high-quality, production-ready training sets that accelerat
 
 ## Featured Projects
 - **Data Annotation Samples** — example annotations, guidelines, and scripts for quality checks. *(link: `Cynthia-codex/data-annotation-samples`)*  
-- **[Project Name]** — one-line impact statement showing measurable result (accuracy increase, time saved, scale).  
-- **[Project Name]** — short line about role, tools used, and outcome.
+- **Text annotation** — one-line impact statement showing measurable result (accuracy increase, time saved, scale).  
+- **Data annotation** — short line about role, tools used, and outcome.
 - ## How to Verify My Work
 - Browse the `data-annotation-samples` repo for real examples of annotation formats, README SOPs, and QA scripts.  
 - Request a short paid trial task — I can deliver a sample set with QA reports within agreed scope.
